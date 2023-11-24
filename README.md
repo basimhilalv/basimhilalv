@@ -11,27 +11,14 @@
   <p>
     <h2>Hi there 👋 it's me Basim</h2>
 
-This is my Github account and you can call me Basim.
-
-I am just a fresher in Full Stack Web Development and I am still learning.
-
-I am working on the new MERN stack project.
-
+This is my Github account and you can check explore my projects here...
+I am just a fresher in Full Stack Web Development and I am still learning new tech.
 Thank you everyone. Please do checkout my repositories too.
   </p>
 </div>
 
 
-
-### Hi there 👋
-
-This is my Github account and you can call me Basim.
-
-I am just a fresher in Full Stack Web Development and I am still learning.
-
-I am working on the new MERN stack project.
-
-Thank you everyone. Please do checkout my repositories too.   
+   
 
 <!--
 **basimhilalv/basimhilalv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
