@@ -11,8 +11,8 @@
   <p>
     <h2>Hi there 👋 it's me Basim</h2>
 
-This is my Github account and you can check explore my projects here...
-I am just a fresher in Full Stack Web Development and I am still learning new tech.
+This is my Github account and you can check explore my projects here... <br/>
+I am just a fresher in Full Stack Web Development and I am still learning new tech...<br/>
 Thank you everyone. Please do checkout my repositories too.
   </p>
 </div>
