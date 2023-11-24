@@ -8,6 +8,17 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+  <p>
+    ### Hi there 👋
+
+This is my Github account and you can call me Basim.
+
+I am just a fresher in Full Stack Web Development and I am still learning.
+
+I am working on the new MERN stack project.
+
+Thank you everyone. Please do checkout my repositories too.
+  </p>
 </div>
 
 
