@@ -16,6 +16,8 @@ This is my Github account and you can check explore my projects here... <br/>
 I am just a fresher in Full Stack Web Development and I am still learning new tech...<br/>
 Thank you everyone. Please do checkout my repositories too.
   </p>
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=basimhilalv&theme=dark&background=000000)](https://git.io/streak-stats)
   
 </div>
 
