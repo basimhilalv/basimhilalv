@@ -9,7 +9,7 @@
   </a>
 </div>
   <p>
-    ### Hi there 👋
+    <h2>Hi there 👋 it's me Basim</h2>
 
 This is my Github account and you can call me Basim.
 
