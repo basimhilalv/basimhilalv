@@ -17,7 +17,6 @@ I am just a fresher in Full Stack Web Development and I am still learning new te
 Thank you everyone. Please do checkout my repositories too.
   </p>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=basimhilalv&theme=dark&background=000000)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basimhilalv&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
   
